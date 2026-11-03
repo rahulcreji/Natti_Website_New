@@ -1,0 +1,213 @@
+{
+  "source_pdf": "6. Real Estate Agent and Inspection.pdf",
+  "context": "A dialogue between a real estate agent and a client inquiring about a rental property inspection.",
+  "speakers": [
+    {
+      "name": "Sally",
+      "language": "english",
+      "gender": "female"
+    },
+    {
+      "name": "LOTE",
+      "language": "malayalam",
+      "gender": "male"
+    }
+  ],
+  "segments": [
+    {
+      "number": 1,
+      "speaker": "Sally",
+      "speaker_gender": "female",
+      "question": {
+        "file": "questions/seg_1_english_question.mp3",
+        "language": "English",
+        "text": "Hi, I am Sally, the real estate agent working here with 'Invest-Sure Property'. Welcome to the tour. I have a list of available rental properties."
+      },
+      "answer": {
+        "file": "answers/seg_1_malayalam_answer.mp3",
+        "language": "Malayalam",
+        "text": "നമസ്കാരം, ഞാൻ സാലി. ഇവിടെ 'ഇൻവെസ്റ്റ് ഷുവർ പ്രോപ്പർട്ടി'യിൽ ജോലി ചെയ്യുന്ന സ്ഥാവര വസ്തു ഇടനിലക്കാരിയാണ്. സന്ദർശനത്തിലേക്ക് സ്വാഗതം. ലഭ്യമായ വാടക വീടുകളുടെ ഒരു പട്ടിക എന്റെ പക്കലുണ്ട്."
+      }
+    },
+    {
+      "number": 2,
+      "speaker": "LOTE",
+      "speaker_gender": "male",
+      "question": {
+        "file": "questions/seg_2_malayalam_question.mp3",
+        "language": "Malayalam",
+        "text": "നിങ്ങളുടെ വെബ്സൈറ്റിൽ നൽകിയ പരസ്യം ഞാൻ കണ്ടു. ഞാൻ താമസിക്കാൻ ഒരു വീട് അന്വേഷിക്കുകയാണ്."
+      },
+      "answer": {
+        "file": "answers/seg_2_english_answer.mp3",
+        "language": "English",
+        "text": "I saw the advertisement you placed on your website, and I am looking for a house to live in."
+      }
+    },
+    {
+      "number": 3,
+      "speaker": "Sally",
+      "speaker_gender": "female",
+      "question": {
+        "file": "questions/seg_3_english_question.mp3",
+        "language": "English",
+        "text": "Sure, I am here to help you with that. The previous tenants have finished their contract and decided to give the place to a new renter."
+      },
+      "answer": {
+        "file": "answers/seg_3_malayalam_answer.mp3",
+        "language": "Malayalam",
+        "text": "തീർച്ചയായും നിങ്ങളെ സഹായിക്കാൻ ഞാൻ ഇവിടെയുണ്ട്. മുൻപത്തെ വാടകക്കാർ അവരുടെ കരാർ പൂർത്തിയാക്കി പുതിയൊരു വാടകക്കാരന് ഈ സ്ഥലം നൽകാൻ തീരുമാനിച്ചിട്ടുണ്ട്."
+      }
+    },
+    {
+      "number": 4,
+      "speaker": "LOTE",
+      "speaker_gender": "male",
+      "question": {
+        "file": "questions/seg_4_malayalam_question.mp3",
+        "language": "Malayalam",
+        "text": "എന്റെ കുടുംബത്തോടൊപ്പം താമസിക്കാൻ ഞാൻ ഒരു സ്ഥലം അന്വേഷിക്കുകയാണ്. ഞങ്ങൾ നിലവിൽ ഒരു ചെറിയ വീട്ടിലാണ് താമസിക്കുന്നത്."
+      },
+      "answer": {
+        "file": "answers/seg_4_english_answer.mp3",
+        "language": "English",
+        "text": "I am looking for a place to live with my family. We currently live in a small house."
+      }
+    },
+    {
+      "number": 5,
+      "speaker": "Sally",
+      "speaker_gender": "female",
+      "question": {
+        "file": "questions/seg_5_english_question.mp3",
+        "language": "English",
+        "text": "We have plenty of space in this house. It has 3 bedrooms and 2 bathrooms, and it is near shops, parks and the train station."
+      },
+      "answer": {
+        "file": "answers/seg_5_malayalam_answer.mp3",
+        "language": "Malayalam",
+        "text": "ഈ വീട്ടിൽ ധാരാളം സ്ഥലമുണ്ട്. ഇതിൽ മൂന്ന് കിടപ്പുമുറികളും രണ്ട് കുളിമുറികളുമുണ്ട്. കൂടാതെ ഇത് കടകൾക്കും ഉദ്യാനങ്ങൾക്കും തീവണ്ടി നിലയത്തിനും സമീപമാണ്."
+      }
+    },
+    {
+      "number": 6,
+      "speaker": "LOTE",
+      "speaker_gender": "male",
+      "question": {
+        "file": "questions/seg_6_malayalam_question.mp3",
+        "language": "Malayalam",
+        "text": "വളരെ നല്ലത്. കൂടാതെ എന്റെ ഇംഗ്ലീഷ് ക്ലാസിൽ നിന്ന് ഇവിടേക്ക് നടക്കാനുള്ള ദൂരം മാത്രമേയുള്ളൂ."
+      },
+      "answer": {
+        "file": "answers/seg_6_english_answer.mp3",
+        "language": "English",
+        "text": "That is very good, and this place is only walking distance from my English class."
+      }
+    },
+    {
+      "number": 7,
+      "speaker": "Sally",
+      "speaker_gender": "female",
+      "question": {
+        "file": "questions/seg_7_english_question.mp3",
+        "language": "English",
+        "text": "Sir, several people are inspecting apart from you, and this place is very popular. If you want this place, you have to apply as soon as possible."
+      },
+      "answer": {
+        "file": "answers/seg_7_malayalam_answer.mp3",
+        "language": "Malayalam",
+        "text": "മാന്യരേ, നിങ്ങളെക്കൂടാതെ നിരവധി ആളുകൾ ഈ സ്ഥലം പരിശോധിക്കുന്നുണ്ട്. കൂടാതെ ഇതിന് വലിയ ആവശ്യക്കാരുമുണ്ട്. നിങ്ങൾക്ക് ഈ സ്ഥലം വേണമെങ്കിൽ എത്രയും വേഗം അപേക്ഷിക്കണം."
+      }
+    },
+    {
+      "number": 8,
+      "speaker": "LOTE",
+      "speaker_gender": "male",
+      "question": {
+        "file": "questions/seg_8_malayalam_question.mp3",
+        "language": "Malayalam",
+        "text": "ഞാൻ നിങ്ങളുടെ വെബ്സൈറ്റിൽ കയറി ഒരു പത്രിക എടുത്തിരുന്നു. ഇത് കൃത്യമായി ഏത് പത്രികയാണെന്നും ഇതിന്റെ നടപടിക്രമങ്ങൾ എന്തൊക്കെയാണെന്നും പറയാമോ?"
+      },
+      "answer": {
+        "file": "answers/seg_8_english_answer.mp3",
+        "language": "English",
+        "text": "I went to your website and downloaded a form. Can you tell me exactly which form it is and what the procedures are?"
+      }
+    },
+    {
+      "number": 9,
+      "speaker": "Sally",
+      "speaker_gender": "female",
+      "question": {
+        "file": "questions/seg_9_english_question.mp3",
+        "language": "English",
+        "text": "We need official identification documents such as your bank statement, a reference letter from your employer and a letter from your previous landlords."
+      },
+      "answer": {
+        "file": "answers/seg_9_malayalam_answer.mp3",
+        "language": "Malayalam",
+        "text": "നിങ്ങളുടെ ബാങ്ക് ഇടപാട് വിവരങ്ങൾ, തൊഴിലുടമയിൽ നിന്നുള്ള ശുപാർശ കത്ത്, മുൻപത്തെ വീട്ടുടമസ്ഥരിൽ നിന്നുള്ള കത്ത് തുടങ്ങിയ ഔദ്യോഗിക തിരിച്ചറിയൽ രേഖകൾ ഞങ്ങൾക്ക് ആവശ്യമാണ്."
+      }
+    },
+    {
+      "number": 10,
+      "speaker": "LOTE",
+      "speaker_gender": "male",
+      "question": {
+        "file": "questions/seg_10_malayalam_question.mp3",
+        "language": "Malayalam",
+        "text": "എന്റെ പക്കൽ എല്ലാ രേഖകളും തയ്യാറാണ്. ഞാൻ വീട്ടിൽ പോയി അപേക്ഷിക്കാം. എനിക്ക് ഈ സ്ഥലം ലഭിക്കുമെന്ന് ഉറപ്പുണ്ട്."
+      },
+      "answer": {
+        "file": "answers/seg_10_english_answer.mp3",
+        "language": "English",
+        "text": "I have all the documents ready. I will go home and apply. I am sure I will get this place."
+      }
+    },
+    {
+      "number": 11,
+      "speaker": "Sally",
+      "speaker_gender": "female",
+      "question": {
+        "file": "questions/seg_11_english_question.mp3",
+        "language": "English",
+        "text": "Excellent. Today I will be at the house until 5 pm."
+      },
+      "answer": {
+        "file": "answers/seg_11_malayalam_answer.mp3",
+        "language": "Malayalam",
+        "text": "വളരെ നല്ലത്. ഇന്ന് വൈകുന്നേരം അഞ്ചു മണി വരെ ഞാൻ ഈ വീട്ടിൽ ഉണ്ടാകും."
+      }
+    },
+    {
+      "number": 12,
+      "speaker": "LOTE",
+      "speaker_gender": "male",
+      "question": {
+        "file": "questions/seg_12_malayalam_question.mp3",
+        "language": "Malayalam",
+        "text": "ഞാൻ ഇപ്പോൾ വീട്ടിൽ പോയി വൈകുന്നേരം അഞ്ചു മണിക്ക് മുൻപ് എല്ലാം പൂർത്തിയാക്കാം. നന്ദി."
+      },
+      "answer": {
+        "file": "answers/seg_12_english_answer.mp3",
+        "language": "English",
+        "text": "I will go home now and complete everything before 5 pm. Thank you."
+      }
+    },
+    {
+      "number": 13,
+      "speaker": "Sally",
+      "speaker_gender": "female",
+      "question": {
+        "file": "questions/seg_13_english_question.mp3",
+        "language": "English",
+        "text": "Great. Please take my card as well. If you need to ask anything, just contact me."
+      },
+      "answer": {
+        "file": "answers/seg_13_malayalam_answer.mp3",
+        "language": "Malayalam",
+        "text": "വളരെ നല്ലത്. ദയവായി എന്റെ മേൽവിലാസക്കുറിപ്പും കൂടെ വാങ്ങുക. എന്തെങ്കിലും ചോദിക്കാനുണ്ടെങ്കിൽ എന്നെ ബന്ധപ്പെടുക."
+      }
+    }
+  ]
+}

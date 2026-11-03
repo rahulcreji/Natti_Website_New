@@ -1,0 +1,228 @@
+{
+  "source_pdf": "5 Phone conversation between a business owner and the owner of a printing press.pdf",
+  "context": "The following is a phone conversation between a business owner and Andy, who is the owner of a printing press ready to take an order for brochures for the new business.",
+  "speakers": [
+    {
+      "name": "Andy",
+      "language": "english",
+      "gender": "male"
+    },
+    {
+      "name": "Business Owner",
+      "language": "malayalam",
+      "gender": "male"
+    }
+  ],
+  "segments": [
+    {
+      "number": 1,
+      "speaker": "Andy",
+      "speaker_gender": "male",
+      "question": {
+        "file": "questions/seg_1_english_question.mp3",
+        "language": "English",
+        "text": "Good morning. Andy speaking. How may I help you?"
+      },
+      "answer": {
+        "file": "answers/seg_1_malayalam_answer.mp3",
+        "language": "Malayalam",
+        "text": "സുപ്രഭാതം. ആൻഡിയാണ് സംസാരിക്കുന്നത്. ഞാൻ നിങ്ങളെ എങ്ങനെയാണ് സഹായിക്കേണ്ടത്?"
+      }
+    },
+    {
+      "number": 2,
+      "speaker": "Business Owner",
+      "speaker_gender": "male",
+      "question": {
+        "file": "questions/seg_2_malayalam_question.mp3",
+        "language": "Malayalam",
+        "text": "ഞാൻ അടുത്തിടെയാണ് ഒരു കാർ അറ്റകുറ്റപ്പണിശാല സംരംഭം ആരംഭിച്ചത്. എന്റെ സ്ഥാപനത്തെക്കുറിച്ച് പരസ്യം നൽകാൻ ഞാൻ ആഗ്രഹിക്കുന്നു."
+      },
+      "answer": {
+        "file": "answers/seg_2_english_answer.mp3",
+        "language": "English",
+        "text": "I recently started a car workshop venture. I would like to place an advertisement for my firm."
+      }
+    },
+    {
+      "number": 3,
+      "speaker": "Andy",
+      "speaker_gender": "male",
+      "question": {
+        "file": "questions/seg_3_english_question.mp3",
+        "language": "English",
+        "text": "Of course. We have lots of options to choose from. We have brochures, business cards, signboards, banners and even T-shirts."
+      },
+      "answer": {
+        "file": "answers/seg_3_malayalam_answer.mp3",
+        "language": "Malayalam",
+        "text": "തീർച്ചയായും. ഞങ്ങളുടെ പക്കൽ തിരഞ്ഞെടുക്കാൻ നിരവധി ഇനങ്ങളുണ്ട്. ലഘുലേഖകൾ, സന്ദർശന പത്രികകൾ, പരസ്യഫലകങ്ങൾ, വിളംബരപ്പട്ടകൾ, ടീ-ഷർട്ടുകൾ എന്നിവ വരെ ഞങ്ങളുടെ പക്കലുണ്ട്."
+      }
+    },
+    {
+      "number": 4,
+      "speaker": "Business Owner",
+      "speaker_gender": "male",
+      "question": {
+        "file": "questions/seg_4_malayalam_question.mp3",
+        "language": "Malayalam",
+        "text": "എന്റെ സ്ഥാപനത്തെക്കുറിച്ചുള്ള അവബോധം വളർത്താൻ ചില ലഘുലേഖകൾ തപാൽപ്പെട്ടികളിൽ ഇടാനാണ് ഞാൻ ആലോചിക്കുന്നത്."
+      },
+      "answer": {
+        "file": "answers/seg_4_english_answer.mp3",
+        "language": "English",
+        "text": "I am thinking of putting some brochures in post boxes to spread awareness about my business."
+      }
+    },
+    {
+      "number": 5,
+      "speaker": "Andy",
+      "speaker_gender": "male",
+      "question": {
+        "file": "questions/seg_5_english_question.mp3",
+        "language": "English",
+        "text": "It is a very good option. Since you are planning to deliver the materials on your own, you can save lots of money. What kind of brochure do you want - a coloured one or a black and white one?"
+      },
+      "answer": {
+        "file": "answers/seg_5_malayalam_answer.mp3",
+        "language": "Malayalam",
+        "text": "ഇത് വളരെ നല്ലൊരു മാർഗ്ഗമാണ്. സാമഗ്രികൾ സ്വയം വിതരണം ചെയ്യാൻ നിങ്ങൾ ഉദ്ദേശിക്കുന്നതിനാൽ നിങ്ങൾക്ക് ധാരാളം പണം ലാഭിക്കാൻ കഴിയും. ഏതുതരം ലഘുലേഖയാണ് നിങ്ങൾക്ക് വേണ്ടത്? നിറങ്ങളുള്ളതാണോ അതോ കറുപ്പും വെളുപ്പുമായതാണോ?"
+      }
+    },
+    {
+      "number": 6,
+      "speaker": "Business Owner",
+      "speaker_gender": "male",
+      "question": {
+        "file": "questions/seg_6_malayalam_question.mp3",
+        "language": "Malayalam",
+        "text": "അത് ചെലവിനെ ആശ്രയിച്ചിരിക്കുന്നു. ആയിരം പ്രതികൾക്ക് എത്ര ചെലവാകും?"
+      },
+      "answer": {
+        "file": "answers/seg_6_english_answer.mp3",
+        "language": "English",
+        "text": "That depends on the cost. How much would 1000 copies cost?"
+      }
+    },
+    {
+      "number": 7,
+      "speaker": "Andy",
+      "speaker_gender": "male",
+      "question": {
+        "file": "questions/seg_7_english_question.mp3",
+        "language": "English",
+        "text": "We have two options. For 1000 prints, it is $490, and for 5000 prints, it is $300. You can make the design on your own or we can design one for you."
+      },
+      "answer": {
+        "file": "answers/seg_7_malayalam_answer.mp3",
+        "language": "Malayalam",
+        "text": "ഞങ്ങൾക്ക് രണ്ട് മാർഗ്ഗങ്ങളുണ്ട്. ആയിരം അച്ചടികൾക്ക് നാനൂറ്റി തൊണ്ണൂറു ഡോളറും അയ്യായിരം അച്ചടികൾക്ക് മുന്നൂറു ഡോളറുമാണ് നിരക്ക്. നിങ്ങൾക്ക് സ്വന്തമായി രൂപകൽപ്പന തയ്യാറാക്കാം അല്ലെങ്കിൽ ഞങ്ങൾ നിങ്ങൾക്കായി ഒരെണ്ണം രൂപകൽപ്പന ചെയ്യാം."
+      }
+    },
+    {
+      "number": 8,
+      "speaker": "Business Owner",
+      "speaker_gender": "male",
+      "question": {
+        "file": "questions/seg_8_malayalam_question.mp3",
+        "language": "Malayalam",
+        "text": "നിങ്ങൾ രൂപകൽപ്പന ചെയ്യുകയാണെങ്കിൽ അതായിരിക്കും കൂടുതൽ നല്ലത്. അയ്യായിരം പകർപ്പുകൾ എടുക്കാനാണ് ഞാൻ ആലോചിക്കുന്നത്."
+      },
+      "answer": {
+        "file": "answers/seg_8_english_answer.mp3",
+        "language": "English",
+        "text": "It would be much better if you could design it. I am thinking of getting 5000 copies."
+      }
+    },
+    {
+      "number": 9,
+      "speaker": "Andy",
+      "speaker_gender": "male",
+      "question": {
+        "file": "questions/seg_9_english_question.mp3",
+        "language": "English",
+        "text": "All right. Would you mind sharing your details, including the name of the business, address and phone number? If I get this, I can start working this afternoon itself."
+      },
+      "answer": {
+        "file": "answers/seg_9_malayalam_answer.mp3",
+        "language": "Malayalam",
+        "text": "ശരി. നിങ്ങളുടെ സ്ഥാപനത്തിന്റെ പേര്, വിലാസം, ഫോൺ നമ്പർ എന്നിവ ഉൾപ്പെടെയുള്ള വിവരങ്ങൾ പങ്കുവെക്കാമോ? ഇത് ലഭിച്ചാൽ ഇന്ന് ഉച്ചയ്ക്ക് തന്നെ എനിക്ക് ജോലി ആരംഭിക്കാം."
+      }
+    },
+    {
+      "number": 10,
+      "speaker": "Business Owner",
+      "speaker_gender": "male",
+      "question": {
+        "file": "questions/seg_10_malayalam_question.mp3",
+        "language": "Malayalam",
+        "text": "ഞാൻ നൽകുന്ന സേവനങ്ങളും അവയുടെ നിരക്കുകളും പങ്കുവെക്കാം. മറ്റു വിവരങ്ങൾക്കൊപ്പം ഞാൻ ഇ-തപാൽ വഴി ഇത് അയക്കാം."
+      },
+      "answer": {
+        "file": "answers/seg_10_english_answer.mp3",
+        "language": "English",
+        "text": "I can share the services that I offer and their rates. I will send this via email along with the other details."
+      }
+    },
+    {
+      "number": 11,
+      "speaker": "Andy",
+      "speaker_gender": "male",
+      "question": {
+        "file": "questions/seg_11_english_question.mp3",
+        "language": "English",
+        "text": "Thank you. You may also consider including photos of your staff. Perhaps a logo too."
+      },
+      "answer": {
+        "file": "answers/seg_11_malayalam_answer.mp3",
+        "language": "Malayalam",
+        "text": "നന്ദി. നിങ്ങളുടെ ജീവനക്കാരുടെ ചിത്രങ്ങൾ ഉൾപ്പെടുത്തുന്ന കാര്യവും പരിഗണിക്കാം. ഒരുപക്ഷേ ഒരു ചിഹ്നവും."
+      }
+    },
+    {
+      "number": 12,
+      "speaker": "Business Owner",
+      "speaker_gender": "male",
+      "question": {
+        "file": "questions/seg_12_malayalam_question.mp3",
+        "language": "Malayalam",
+        "text": "അത് നല്ലൊരു ആശയമാണ്. എന്റെ ജീവനക്കാരുടെ ചിത്രങ്ങൾ എടുക്കാൻ ഞാൻ മകനോട് പറയാം."
+      },
+      "answer": {
+        "file": "answers/seg_12_english_answer.mp3",
+        "language": "English",
+        "text": "That is a good idea. I will ask my son to take photos of my employees."
+      }
+    },
+    {
+      "number": 13,
+      "speaker": "Andy",
+      "speaker_gender": "male",
+      "question": {
+        "file": "questions/seg_13_english_question.mp3",
+        "language": "English",
+        "text": "Good. I think your design will be ready for proofreading by this Wednesday."
+      },
+      "answer": {
+        "file": "answers/seg_13_malayalam_answer.mp3",
+        "language": "Malayalam",
+        "text": "നല്ലത്. ഈ ബുധനാഴ്ചയോടെ നിങ്ങളുടെ രൂപകൽപ്പന പരിശോധനയ്ക്കായി തയ്യാറാകുമെന്ന് ഞാൻ കരുതുന്നു."
+      }
+    },
+    {
+      "number": 14,
+      "speaker": "Business Owner",
+      "speaker_gender": "male",
+      "question": {
+        "file": "questions/seg_14_malayalam_question.mp3",
+        "language": "Malayalam",
+        "text": "നന്ദി ആൻഡി, ഇത് വളരെ സഹായകരമായിരുന്നു. നിങ്ങളുടെ കാർ പരിശോധിക്കണമെന്നുണ്ടെങ്കിൽ ഞങ്ങളുടെ സ്ഥാപനം അടുത്ത തെരുവിൽ തന്നെയുണ്ടെന്ന് ഓർക്കുക."
+      },
+      "answer": {
+        "file": "answers/seg_14_english_answer.mp3",
+        "language": "English",
+        "text": "Thank you, Andy. This was very helpful. If you want to get your car checked, please remember that our shop is right on the nearby street."
+      }
+    }
+  ]
+}

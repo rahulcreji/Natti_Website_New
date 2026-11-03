@@ -1,0 +1,198 @@
+{
+  "source_pdf": "4. Phone conversation between a business owner and the owner of a printing press - Copy - Copy (9).docx.pdf",
+  "context": "A Friendly Chat Over Coffee – Brenda & Her Friend at the Farmer’s Market",
+  "speakers": [
+    {
+      "name": "Brenda",
+      "language": "english",
+      "gender": "female"
+    },
+    {
+      "name": "Friend",
+      "language": "malayalam",
+      "gender": "female"
+    }
+  ],
+  "segments": [
+    {
+      "number": 1,
+      "speaker": "Brenda",
+      "speaker_gender": "female",
+      "question": {
+        "file": "questions/seg_1_english_question.mp3",
+        "language": "English",
+        "text": "Hey! It’s been so long since we last met. Do you have some time to catch up? How about a cup of coffee?"
+      },
+      "answer": {
+        "file": "answers/seg_1_malayalam_answer.mp3",
+        "language": "Malayalam",
+        "text": "നമസ്കാരം! നമ്മൾ കണ്ടിട്ട് ഒരുപാട് നാളായി. വിശേഷങ്ങൾ പങ്കുവെക്കാൻ അല്പം സമയമുണ്ടോ? ഒരു കാപ്പി കുടിച്ചാലോ?"
+      }
+    },
+    {
+      "number": 2,
+      "speaker": "Friend",
+      "speaker_gender": "female",
+      "question": {
+        "file": "questions/seg_2_malayalam_question.mp3",
+        "language": "Malayalam",
+        "text": "നമസ്കാരം! നിങ്ങളെ കണ്ടതിൽ വളരെ സന്തോഷം. സംസാരിക്കാൻ സമയമുണ്ട് പക്ഷേ സത്യം പറഞ്ഞാൽ ഞാൻ ചെലവ് ചുരുക്കാൻ ശ്രമിക്കുകയാണ്. ഇപ്പോൾ എനിക്ക് കാപ്പി വാങ്ങാൻ കഴിയില്ല."
+      },
+      "answer": {
+        "file": "answers/seg_2_english_answer.mp3",
+        "language": "English",
+        "text": "Hi! It’s so good to see you. I do have time to chat, but honestly I’m trying to cut down on expenses, and I can’t afford a coffee right now."
+      }
+    },
+    {
+      "number": 3,
+      "speaker": "Brenda",
+      "speaker_gender": "female",
+      "question": {
+        "file": "questions/seg_3_english_question.mp3",
+        "language": "English",
+        "text": "Oh, don’t worry about that! Let me treat you. It’s been too long since we last had a good conversation."
+      },
+      "answer": {
+        "file": "answers/seg_3_malayalam_answer.mp3",
+        "language": "Malayalam",
+        "text": "ഓ അതിനെക്കുറിച്ച് വിഷമിക്കേണ്ട! ഞാൻ വാങ്ങിത്തരാം. നമ്മൾ നന്നായി സംസാരിച്ചിട്ട് ഒരുപാട് നാളായി."
+      }
+    },
+    {
+      "number": 4,
+      "speaker": "Friend",
+      "speaker_gender": "female",
+      "question": {
+        "file": "questions/seg_4_malayalam_question.mp3",
+        "language": "Malayalam",
+        "text": "അത് നിങ്ങളുടെ വലിയ മനസ്സാണ് പക്ഷേ എനിക്ക് വിഷമം തോന്നുന്നു. നിങ്ങൾക്ക് എപ്പോൾ പണം തിരികെ നൽകാൻ കഴിയുമെന്ന് എനിക്കറിയില്ല. ഇക്കാലത്ത് വർധിച്ചുവരുന്ന ചെലവുകൾക്കിടയിൽ എനിക്ക് എപ്പോഴെങ്കിലും അത് ചെയ്യാൻ കഴിയുമോ എന്ന് പോലും ഉറപ്പില്ല."
+      },
+      "answer": {
+        "file": "answers/seg_4_english_answer.mp3",
+        "language": "English",
+        "text": "That’s very kind of you, but I feel bad. I don’t know when I’ll be able to pay you back. With all the rising costs these days, I’m not even sure if I’ll ever be able to."
+      }
+    },
+    {
+      "number": 5,
+      "speaker": "Brenda",
+      "speaker_gender": "female",
+      "question": {
+        "file": "questions/seg_5_english_question.mp3",
+        "language": "English",
+        "text": "Please don’t think about it! I worked a few extra shifts this week, so I’d love to treat you to a coffee and even a little cake. You deserve it!"
+      },
+      "answer": {
+        "file": "answers/seg_5_malayalam_answer.mp3",
+        "language": "Malayalam",
+        "text": "ദയവായി അതിനെക്കുറിച്ച് ആലോചിക്കുകയേ വേണ്ട! ഈ ആഴ്ച ഞാൻ കുറച്ച് അധിക സമയം ജോലി ചെയ്തിരുന്നു. അതിനാൽ നിങ്ങൾക്ക് ഒരു കാപ്പിയും ഒരു ചെറിയ മധുരപലഹാരവും വാങ്ങിത്തരാൻ ഞാൻ ആഗ്രഹിക്കുന്നു. നിങ്ങൾ അത് അർഹിക്കുന്നുണ്ട്!"
+      }
+    },
+    {
+      "number": 6,
+      "speaker": "Friend",
+      "speaker_gender": "female",
+      "question": {
+        "file": "questions/seg_6_malayalam_question.mp3",
+        "language": "Malayalam",
+        "text": "നിങ്ങൾ വളരെ സ്നേഹമുള്ളവളാണ്. കുറച്ചുകൂടി പണം ലാഭിക്കാൻ വേണ്ടി അടുത്തിടെയായി ഞാൻ ആഴ്ചതോറുമുള്ള കാപ്പിയുടെ ചെലവ് കുറയ്ക്കുകയാണ്."
+      },
+      "answer": {
+        "file": "answers/seg_6_english_answer.mp3",
+        "language": "English",
+        "text": "That’s so sweet of you. Lately, I’ve been cutting down on my weekly coffee expenses just to save a little more."
+      }
+    },
+    {
+      "number": 7,
+      "speaker": "Brenda",
+      "speaker_gender": "female",
+      "question": {
+        "file": "questions/seg_7_english_question.mp3",
+        "language": "English",
+        "text": "I totally get it! Coffee expenses can really add up. Have you thought about making it at home? We started brewing coffee at home, and it’s helped us save quite a bit. You could try using a simple glass coffee pot. It’s affordable and easy to use. Just pour some hot water, add the coffee, and let it brew naturally."
+      },
+      "answer": {
+        "file": "answers/seg_7_malayalam_answer.mp3",
+        "language": "Malayalam",
+        "text": "എനിക്ക് അത് നന്നായി മനസ്സിലാകും! കാപ്പിയുടെ ചെലവ് വലിയൊരു തുകയായി മാറും. വീട്ടിൽ തന്നെ കാപ്പിയുണ്ടാക്കുന്നതിനെക്കുറിച്ച് നിങ്ങൾ ചിന്തിച്ചിട്ടുണ്ടോ? ഞങ്ങൾ വീട്ടിൽ കാപ്പിയുണ്ടാക്കാൻ തുടങ്ങി. അത് ധാരാളം പണം ലാഭിക്കാൻ ഞങ്ങളെ സഹായിച്ചു. നിങ്ങൾക്ക് ഒരു ലളിതമായ കണ്ണാടി കാപ്പിപ്പാത്രം ഉപയോഗിച്ചു നോക്കാവുന്നതാണ്. അതിന് വലിയ വിലയില്ല ഉപയോഗിക്കാനും എളുപ്പമാണ്. കുറച്ച് ചൂടുവെള്ളം ഒഴിച്ച് കാപ്പിപ്പൊടി ചേർത്ത് സ്വാഭാവികമായി ഊറിവരാൻ വെച്ചാൽ മതി."
+      }
+    },
+    {
+      "number": 8,
+      "speaker": "Friend",
+      "speaker_gender": "female",
+      "question": {
+        "file": "questions/seg_8_malayalam_question.mp3",
+        "language": "Malayalam",
+        "text": "വീട്ടിൽ കാപ്പിയുണ്ടാക്കുന്ന ഒരു യന്ത്രം വേണമെന്ന് ഞാൻ ആഗ്രഹിക്കുന്നുണ്ട് പക്ഷേ ഇപ്പോൾ അതിന് വളരെ വിലക്കൂടുതലാണ്. ഏറ്റവും ചെലവ് കുറഞ്ഞ വഴിയായതുകൊണ്ട് ഇപ്പോൾ ഞാൻ പെട്ടെന്ന് തയ്യാറാക്കാവുന്ന കാപ്പി തന്നെയാണ് ഉപയോഗിക്കുന്നത്. എങ്കിലും ആ കണ്ണാടി കാപ്പിപ്പാത്രത്തിന്റെ ആശയം കൊള്ളാമെന്ന് തോന്നുന്നു! നല്ല കാപ്പിക്കുരു എവിടെ നിന്നാണ് ലഭിക്കുക?"
+      },
+      "answer": {
+        "file": "answers/seg_8_english_answer.mp3",
+        "language": "English",
+        "text": "I’d love to have a coffee machine at home, but it’s just too expensive right now. For now, I’m sticking to instant coffee since it’s the cheapest option. That glass coffee pot idea sounds interesting though! Where do you get good coffee beans?"
+      }
+    },
+    {
+      "number": 9,
+      "speaker": "Brenda",
+      "speaker_gender": "female",
+      "question": {
+        "file": "questions/seg_9_english_question.mp3",
+        "language": "English",
+        "text": "You can find fresh coffee beans at the farmers market! They even grow them right there. And you can pick up a coffee pot while you’re there."
+      },
+      "answer": {
+        "file": "answers/seg_9_malayalam_answer.mp3",
+        "language": "Malayalam",
+        "text": "കർഷകച്ചന്തയിൽ നിങ്ങൾക്ക് നല്ല പുതിയ കാപ്പിക്കുരു വാങ്ങാൻ കിട്ടും! അവർ അവിടെത്തന്നെയാണ് അത് വിളയിക്കുന്നത് പോലും. അവിടെ പോകുമ്പോൾ നിങ്ങൾക്ക് ഒരു കാപ്പിപ്പാത്രവും വാങ്ങാം."
+      }
+    },
+    {
+      "number": 10,
+      "speaker": "Friend",
+      "speaker_gender": "female",
+      "question": {
+        "file": "questions/seg_10_malayalam_question.mp3",
+        "language": "Malayalam",
+        "text": "ആഹാ കർഷകച്ചന്തയിൽ നിന്ന് അത് വാങ്ങുന്നതിനെക്കുറിച്ച് ഞാൻ ചിന്തിച്ചിട്ടേയില്ല. അതൊരു നല്ല ആശയമാണ്! വലിയ വ്യാപാരശാലകളിലും ഇവ വാങ്ങാൻ കിട്ടുമോ?"
+      },
+      "answer": {
+        "file": "answers/seg_10_english_answer.mp3",
+        "language": "English",
+        "text": "Wow, I never thought about buying it from the farmers market—that’s a great idea! Can I also find them at department stores?"
+      }
+    },
+    {
+      "number": 11,
+      "speaker": "Brenda",
+      "speaker_gender": "female",
+      "question": {
+        "file": "questions/seg_11_english_question.mp3",
+        "language": "English",
+        "text": "Absolutely! Big department stores often have sales, so you might be able to get a great deal. You can even wait for a seasonal sale and get some samples to try before buying."
+      },
+      "answer": {
+        "file": "answers/seg_11_malayalam_answer.mp3",
+        "language": "Malayalam",
+        "text": "തീർച്ചയായും! വലിയ വ്യാപാരശാലകളിൽ പലപ്പോഴും വിലക്കിഴിവ് ഉണ്ടാകാറുണ്ട്. അതിനാൽ നിങ്ങൾക്ക് നല്ല ലാഭത്തിൽ അത് വാങ്ങാൻ കഴിഞ്ഞേക്കും. കാലാനുസൃത വില്പനയ്ക്കായി കാത്തിരുന്നാൽ വാങ്ങുന്നതിനു മുൻപ് പരീക്ഷിച്ചു നോക്കാൻ മാതൃകകൾ പോലും ലഭിക്കും."
+      }
+    },
+    {
+      "number": 12,
+      "speaker": "Friend",
+      "speaker_gender": "female",
+      "question": {
+        "file": "questions/seg_12_malayalam_question.mp3",
+        "language": "Malayalam",
+        "text": "ഇന്ന് നമ്മൾ കണ്ടുമുട്ടിയതിൽ എനിക്ക് വളരെ സന്തോഷമുണ്ട്. കാപ്പിക്കും നല്ല സംഭാഷണത്തിനും നന്ദി!"
+      },
+      "answer": {
+        "file": "answers/seg_12_english_answer.mp3",
+        "language": "English",
+        "text": "I’m really glad we met today. Thank you for the coffee and the wonderful conversation!"
+      }
+    }
+  ]
+}

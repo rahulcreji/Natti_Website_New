@@ -1,0 +1,198 @@
+{
+  "source_pdf": "12. Business Plan.docx.pdf",
+  "context": "A conversation between a financial advisor and a client discussing how to write a business plan to apply for a bank loan.",
+  "speakers": [
+    {
+      "name": "A",
+      "language": "english",
+      "gender": "male"
+    },
+    {
+      "name": "B",
+      "language": "malayalam",
+      "gender": "male"
+    }
+  ],
+  "segments": [
+    {
+      "number": 1,
+      "speaker": "A",
+      "speaker_gender": "male",
+      "question": {
+        "file": "questions/seg_1_english_question.mp3",
+        "language": "English",
+        "text": "Good morning. I don't usually see you until the tax due date. How can I help you today?"
+      },
+      "answer": {
+        "file": "answers/seg_1_malayalam_answer.mp3",
+        "language": "Malayalam",
+        "text": "സുപ്രഭാതം. നികുതി അടയ്ക്കേണ്ട അവസാന തീയതി വരെ ഞാൻ സാധാരണയായി നിങ്ങളെ കാണാറില്ല. ഇന്ന് ഞാൻ നിങ്ങളെ എങ്ങനെയാണ് സഹായിക്കേണ്ടത്?"
+      }
+    },
+    {
+      "number": 2,
+      "speaker": "B",
+      "speaker_gender": "male",
+      "question": {
+        "file": "questions/seg_2_malayalam_question.mp3",
+        "language": "Malayalam",
+        "text": "ഞാനും എന്റെ സുഹൃത്തും ഒരുമിച്ച് ഒരു ചെറിയ വ്യവസായം ആരംഭിക്കാൻ പദ്ധതിയിടുകയാണ്. അതിനായി ഒരു വ്യവസായ പദ്ധതി തയ്യാറാക്കുന്നതിന് എനിക്ക് നിങ്ങളുടെ സഹായം വേണം."
+      },
+      "answer": {
+        "file": "answers/seg_2_english_answer.mp3",
+        "language": "English",
+        "text": "My friend and I are planning to start a small business together. For that, I need your help to prepare a business plan."
+      }
+    },
+    {
+      "number": 3,
+      "speaker": "A",
+      "speaker_gender": "male",
+      "question": {
+        "file": "questions/seg_3_english_question.mp3",
+        "language": "English",
+        "text": "I would be happy to help. I hope you have appropriate experience in the industry you want to enter, because that will boost your chances of success."
+      },
+      "answer": {
+        "file": "answers/seg_3_malayalam_answer.mp3",
+        "language": "Malayalam",
+        "text": "സഹായിക്കാൻ എനിക്ക് സന്തോഷമേയുള്ളൂ. നിങ്ങൾ പ്രവേശിക്കാൻ ആഗ്രഹിക്കുന്ന വ്യവസായ മേഖലയിൽ നിങ്ങൾക്ക് ഉചിതമായ പരിചയമുണ്ടെന്ന് ഞാൻ പ്രതീക്ഷിക്കുന്നു. കാരണം അത് നിങ്ങളുടെ വിജയസാധ്യത വർദ്ധിപ്പിക്കും."
+      }
+    },
+    {
+      "number": 4,
+      "speaker": "B",
+      "speaker_gender": "male",
+      "question": {
+        "file": "questions/seg_4_malayalam_question.mp3",
+        "language": "Malayalam",
+        "text": "അതെ. ഞങ്ങൾ രണ്ടുപേർക്കും ആ മേഖലയിൽ നിരവധി വർഷത്തെ പരിചയമുണ്ട്. ഞങ്ങൾ എപ്പോഴും ഒരുമിച്ച് വ്യവസായം ചെയ്യാനാണ് ലക്ഷ്യമിട്ടത്."
+      },
+      "answer": {
+        "file": "answers/seg_4_english_answer.mp3",
+        "language": "English",
+        "text": "Yes. We both have many years of experience in that industry. We have always aimed to do business together."
+      }
+    },
+    {
+      "number": 5,
+      "speaker": "A",
+      "speaker_gender": "male",
+      "question": {
+        "file": "questions/seg_5_english_question.mp3",
+        "language": "English",
+        "text": "Great. It is a good idea to start your own business. Tell me, what help do you need from me?"
+      },
+      "answer": {
+        "file": "answers/seg_5_malayalam_answer.mp3",
+        "language": "Malayalam",
+        "text": "വളരെ നല്ലത്. സ്വന്തമായി ഒരു വ്യവസായം ആരംഭിക്കുന്നത് നല്ലൊരു ആശയമാണ്. എന്നിൽ നിന്ന് നിങ്ങൾക്ക് എന്ത് സഹായമാണ് വേണ്ടതെന്ന് പറയൂ."
+      }
+    },
+    {
+      "number": 6,
+      "speaker": "B",
+      "speaker_gender": "male",
+      "question": {
+        "file": "questions/seg_6_malayalam_question.mp3",
+        "language": "Malayalam",
+        "text": "എനിക്ക് ഒരു ബാങ്ക് വായ്പയ്ക്ക് അപേക്ഷിക്കണം. അതിനായി ഞങ്ങൾ ബാങ്കിന് അഞ്ചു വർഷത്തെ പദ്ധതി നൽകേണ്ടതുണ്ടെന്ന് എനിക്കറിയാം. വ്യവസായ പദ്ധതിയിൽ ഞങ്ങൾ ഉൾപ്പെടുത്തുന്ന വിവരങ്ങളെല്ലാം കൃത്യമാണെന്ന് ഉറപ്പാക്കാൻ ഞാൻ ആഗ്രഹിക്കുന്നു."
+      },
+      "answer": {
+        "file": "answers/seg_6_english_answer.mp3",
+        "language": "English",
+        "text": "I need to apply for a bank loan. For that, I know that we need to provide the bank with a five-year plan. I want to make sure that all the information we are including in the business plan is accurate."
+      }
+    },
+    {
+      "number": 7,
+      "speaker": "A",
+      "speaker_gender": "male",
+      "question": {
+        "file": "questions/seg_7_english_question.mp3",
+        "language": "English",
+        "text": "There are a few basic things that you need to take care of, such as product details, experience in the field, and forecast of sales and profit."
+      },
+      "answer": {
+        "file": "answers/seg_7_malayalam_answer.mp3",
+        "language": "Malayalam",
+        "text": "ഉൽപ്പന്ന വിവരങ്ങൾ, ഈ മേഖലയിലെ പരിചയം, വിൽപ്പനയുടെയും ലാഭത്തിന്റെയും പ്രവചനം എന്നിവ പോലുള്ള ചില അടിസ്ഥാന കാര്യങ്ങൾ നിങ്ങൾ ശ്രദ്ധിക്കേണ്ടതുണ്ട്."
+      }
+    },
+    {
+      "number": 8,
+      "speaker": "B",
+      "speaker_gender": "male",
+      "question": {
+        "file": "questions/seg_8_malayalam_question.mp3",
+        "language": "Malayalam",
+        "text": "ഞാൻ മറ്റെന്തെങ്കിലും കൂട്ടിച്ചേർക്കേണ്ടതുണ്ടോ? ഇതിനായി ഞങ്ങൾ ഒരുപാട് ഗവേഷണം നടത്തേണ്ടതുണ്ടെന്ന് എനിക്കറിയാം."
+      },
+      "answer": {
+        "file": "answers/seg_8_english_answer.mp3",
+        "language": "English",
+        "text": "Do I need to add anything else? I know that we have to do a lot of research for this."
+      }
+    },
+    {
+      "number": 9,
+      "speaker": "A",
+      "speaker_gender": "male",
+      "question": {
+        "file": "questions/seg_9_english_question.mp3",
+        "language": "English",
+        "text": "You also need to include the location of your business, whether any similar business is operating nearby, and a summary of the business expenses."
+      },
+      "answer": {
+        "file": "answers/seg_9_malayalam_answer.mp3",
+        "language": "Malayalam",
+        "text": "നിങ്ങളുടെ വ്യവസായത്തിന്റെ സ്ഥാനം, സമീപത്ത് സമാനമായ എന്തെങ്കിലും വ്യവസായങ്ങൾ പ്രവർത്തിക്കുന്നുണ്ടോ എന്ന വിവരം, വ്യവസായച്ചെലവുകളുടെ ഒരു സംഗ്രഹം എന്നിവയും നിങ്ങൾ ഉൾപ്പെടുത്തേണ്ടതുണ്ട്."
+      }
+    },
+    {
+      "number": 10,
+      "speaker": "B",
+      "speaker_gender": "male",
+      "question": {
+        "file": "questions/seg_10_malayalam_question.mp3",
+        "language": "Malayalam",
+        "text": "വായ്പ അനുവദിക്കപ്പെടുമെന്ന് ഉറപ്പുവരുത്താൻ ഞങ്ങൾ കൂടുതൽ തയ്യാറെടുക്കേണ്ടതുണ്ട്."
+      },
+      "answer": {
+        "file": "answers/seg_10_english_answer.mp3",
+        "language": "English",
+        "text": "We need to be more prepared if we want to ensure that the loan is approved."
+      }
+    },
+    {
+      "number": 11,
+      "speaker": "A",
+      "speaker_gender": "male",
+      "question": {
+        "file": "questions/seg_11_english_question.mp3",
+        "language": "English",
+        "text": "Yes. It is required for getting the bank loan, and it will make sure that you do not miss any important step."
+      },
+      "answer": {
+        "file": "answers/seg_11_malayalam_answer.mp3",
+        "language": "Malayalam",
+        "text": "അതെ. ബാങ്ക് വായ്പ ലഭിക്കുന്നതിന് അത് ആവശ്യമാണ്. പ്രധാനപ്പെട്ട ഒരു ഘട്ടവും നിങ്ങൾക്ക് വിട്ടുപോകുന്നില്ലെന്ന് ഇത് ഉറപ്പാക്കും."
+      }
+    },
+    {
+      "number": 12,
+      "speaker": "B",
+      "speaker_gender": "male",
+      "question": {
+        "file": "questions/seg_12_malayalam_question.mp3",
+        "language": "Malayalam",
+        "text": "അതെ. അടിത്തറ മികച്ചതാണെന്ന് ഞങ്ങൾ ഉറപ്പാക്കേണ്ടതുണ്ട്. ഇന്നത്തെ നിങ്ങളുടെ സഹായത്തിന് വളരെ നന്ദി."
+      },
+      "answer": {
+        "file": "answers/seg_12_english_answer.mp3",
+        "language": "English",
+        "text": "Yes. We need to make sure that the foundation is good. Thank you very much for your help today."
+      }
+    }
+  ]
+}

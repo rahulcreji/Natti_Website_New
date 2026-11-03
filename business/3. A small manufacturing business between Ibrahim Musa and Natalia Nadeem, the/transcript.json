@@ -1,0 +1,213 @@
+{
+  "source_pdf": "3. A small manufacturing business between Ibrahim Musa and Natalia Nadeem, the Union representative..docx.pdf",
+  "context": "This dialogue takes place at a small manufacturing business between Ibrahim Musa and Natalia Nadeem, the Union representative. The discussion is about the changes in tea- break times.",
+  "speakers": [
+    {
+      "name": "Natalia Nadeem",
+      "language": "english",
+      "gender": "female"
+    },
+    {
+      "name": "Ibrahim Musa",
+      "language": "malayalam",
+      "gender": "male"
+    }
+  ],
+  "segments": [
+    {
+      "number": 1,
+      "speaker": "Natalia Nadeem",
+      "speaker_gender": "female",
+      "question": {
+        "file": "questions/seg_1_english_question.mp3",
+        "language": "English",
+        "text": "Good morning, Mr Musa. I am Natalia Nadeem, the union representative. Thank you for arranging the time to see me."
+      },
+      "answer": {
+        "file": "answers/seg_1_malayalam_answer.mp3",
+        "language": "Malayalam",
+        "text": "സുപ്രഭാതം ശ്രീ മൂസ, ഞാൻ തൊഴിലാളി സംഘടനാ പ്രതിനിധിയായ നതാലിയ നദീം ആണ്. എന്നെ കാണാൻ സമയം അനുവദിച്ചതിന് നന്ദി."
+      }
+    },
+    {
+      "number": 2,
+      "speaker": "Ibrahim Musa",
+      "speaker_gender": "male",
+      "question": {
+        "file": "questions/seg_2_malayalam_question.mp3",
+        "language": "Malayalam",
+        "text": "ഇടവേള സമയങ്ങളിൽ ഞാൻ വരുത്താൻ ഉദ്ദേശിക്കുന്ന മാറ്റങ്ങളെക്കുറിച്ച് ചർച്ച ചെയ്യണമെന്ന് നിങ്ങൾ ഫോണിൽ പറഞ്ഞിരുന്നു."
+      },
+      "answer": {
+        "file": "answers/seg_2_english_answer.mp3",
+        "language": "English",
+        "text": "You mentioned on the phone that you would like to discuss the changes I plan to make to the break times."
+      }
+    },
+    {
+      "number": 3,
+      "speaker": "Natalia Nadeem",
+      "speaker_gender": "female",
+      "question": {
+        "file": "questions/seg_3_english_question.mp3",
+        "language": "English",
+        "text": "Yes, that is correct. Could you please explain the reason you wish to change the break times, which we all had agreed upon?"
+      },
+      "answer": {
+        "file": "answers/seg_3_malayalam_answer.mp3",
+        "language": "Malayalam",
+        "text": "അതെ അത് ശരിയാണ്. നമ്മളെല്ലാവരും സമ്മതിച്ച ഇടവേള സമയങ്ങൾ മാറ്റാൻ നിങ്ങൾ ആഗ്രഹിക്കുന്നതിന്റെ കാരണം ദയവായി വിശദീകരിക്കാമോ?"
+      }
+    },
+    {
+      "number": 4,
+      "speaker": "Ibrahim Musa",
+      "speaker_gender": "male",
+      "question": {
+        "file": "questions/seg_4_malayalam_question.mp3",
+        "language": "Malayalam",
+        "text": "നിർമ്മാണശാലയിലെ ഉൽപാദനക്ഷമതയിൽ ഞാൻ തൃപ്തനല്ല. ഇടവേള സമയങ്ങളിൽ ചില ക്രമീകരണങ്ങൾ വരുത്താൻ ഞാൻ ആഗ്രഹിക്കുന്നു. അതുവഴി അനുയോജ്യമായ സമയങ്ങളിൽ ഞങ്ങൾക്ക് നിർമ്മാണ സാമഗ്രികൾ ലഭിക്കും."
+      },
+      "answer": {
+        "file": "answers/seg_4_english_answer.mp3",
+        "language": "English",
+        "text": "I am not satisfied with the productivity at the factory. I would like to make some adjustments to the break times so that we receive construction materials at the appropriate times."
+      }
+    },
+    {
+      "number": 5,
+      "speaker": "Natalia Nadeem",
+      "speaker_gender": "female",
+      "question": {
+        "file": "questions/seg_5_english_question.mp3",
+        "language": "English",
+        "text": "Well, how are these changes going to benefit your productivity?"
+      },
+      "answer": {
+        "file": "answers/seg_5_malayalam_answer.mp3",
+        "language": "Malayalam",
+        "text": "ശരി ഈ മാറ്റങ്ങൾ നിങ്ങളുടെ ഉൽപാദനക്ഷമതയ്ക്ക് എങ്ങനെയാണ് ഗുണം ചെയ്യുക?"
+      }
+    },
+    {
+      "number": 6,
+      "speaker": "Ibrahim Musa",
+      "speaker_gender": "male",
+      "question": {
+        "file": "questions/seg_6_malayalam_question.mp3",
+        "language": "Malayalam",
+        "text": "ഇവ സ്വീകരിക്കുന്നതിനുള്ള ഏറ്റവും നല്ല സമയം രാവിലെ പത്തു മണിക്കും ഉച്ചയ്ക്ക് പന്ത്രണ്ടു മണിക്കും ഇടയിലും ഉച്ചയ്ക്ക് ഒരു മണിക്കും രണ്ടേകാൽ മണിക്കും ഇടയിലുമാണ്. ഇത് നിലവിലെ രണ്ട് ഇടവേളകളുടെ സമയവുമായി പൊരുത്തപ്പെടുന്നു."
+      },
+      "answer": {
+        "file": "answers/seg_6_english_answer.mp3",
+        "language": "English",
+        "text": "The best times to receive them are between 10:00 am and 12:00 noon and between 1:00 pm and 2:15 pm, which coincides with the timing of the two current breaks."
+      }
+    },
+    {
+      "number": 7,
+      "speaker": "Natalia Nadeem",
+      "speaker_gender": "female",
+      "question": {
+        "file": "questions/seg_7_english_question.mp3",
+        "language": "English",
+        "text": "Established break times are at least 1 hour after the start of the shift and no more than 2 hours before the shift ends. Your changes will breach these conditions."
+      },
+      "answer": {
+        "file": "answers/seg_7_malayalam_answer.mp3",
+        "language": "Malayalam",
+        "text": "ജോലി സമയം ആരംഭിച്ച് കുറഞ്ഞത് ഒരു മണിക്കൂർ കഴിഞ്ഞും ജോലി സമയം അവസാനിക്കുന്നതിന് പരമാവധി രണ്ട് മണിക്കൂർ മുൻപും ആയിരിക്കണം നിശ്ചയിച്ച ഇടവേളകൾ. നിങ്ങളുടെ മാറ്റങ്ങൾ ഈ വ്യവസ്ഥകളെ ലംഘിക്കും."
+      }
+    },
+    {
+      "number": 8,
+      "speaker": "Ibrahim Musa",
+      "speaker_gender": "male",
+      "question": {
+        "file": "questions/seg_8_malayalam_question.mp3",
+        "language": "Malayalam",
+        "text": "ഈ മാറ്റങ്ങൾ എന്റെ തൊഴിലാളികൾക്ക് പ്രശ്നമുണ്ടാക്കില്ല. അവർക്ക് മറ്റൊരു സമയത്ത് ഇടവേളകൾ ലഭിക്കും."
+      },
+      "answer": {
+        "file": "answers/seg_8_english_answer.mp3",
+        "language": "English",
+        "text": "These changes will not cause any problems for my workers. They will get their breaks at a different time."
+      }
+    },
+    {
+      "number": 9,
+      "speaker": "Natalia Nadeem",
+      "speaker_gender": "female",
+      "question": {
+        "file": "questions/seg_9_english_question.mp3",
+        "language": "English",
+        "text": "My job, Mr Musa, is to protect the employees' working conditions, and in this case, to ensure the break times comply with industrial regulations."
+      },
+      "answer": {
+        "file": "answers/seg_9_malayalam_answer.mp3",
+        "language": "Malayalam",
+        "text": "ശ്രീ മൂസ, ജീവനക്കാരുടെ തൊഴിൽ സാഹചര്യങ്ങൾ സംരക്ഷിക്കുക എന്നതാണ് എന്റെ ജോലി. ഈ സാഹചര്യത്തിൽ ഇടവേള സമയങ്ങൾ വ്യാവസായിക ചട്ടങ്ങൾ പാലിക്കുന്നുണ്ടെന്ന് ഉറപ്പുവരുത്തുക എന്നതും എന്റെ ചുമതലയാണ്."
+      }
+    },
+    {
+      "number": 10,
+      "speaker": "Ibrahim Musa",
+      "speaker_gender": "male",
+      "question": {
+        "file": "questions/seg_10_malayalam_question.mp3",
+        "language": "Malayalam",
+        "text": "എന്റെ സ്ഥാപനം ലാഭമുണ്ടാക്കുന്നില്ലെങ്കിൽ അത് അടച്ചുപൂട്ടുന്നതാണ് നല്ലത്. അപ്പോൾ ആശങ്കപ്പെടേണ്ട തൊഴിൽ സാഹചര്യങ്ങളൊന്നും ഉണ്ടാകില്ല."
+      },
+      "answer": {
+        "file": "answers/seg_10_english_answer.mp3",
+        "language": "English",
+        "text": "If my company is not making a profit, it is better to close it down so that there will not be any working conditions to worry about."
+      }
+    },
+    {
+      "number": 11,
+      "speaker": "Natalia Nadeem",
+      "speaker_gender": "female",
+      "question": {
+        "file": "questions/seg_11_english_question.mp3",
+        "language": "English",
+        "text": "Well, that's your choice. I understand making a profit is your priority, but your workers must work under these established conditions."
+      },
+      "answer": {
+        "file": "answers/seg_11_malayalam_answer.mp3",
+        "language": "Malayalam",
+        "text": "ശരി അത് നിങ്ങളുടെ തീരുമാനം. ലാഭമുണ്ടാക്കുക എന്നതാണ് നിങ്ങളുടെ മുൻഗണന എന്ന് ഞാൻ മനസ്സിലാക്കുന്നു. പക്ഷേ നിങ്ങളുടെ തൊഴിലാളികൾ നിശ്ചയിച്ച ഈ വ്യവസ്ഥകളിൽ ജോലി ചെയ്യണം."
+      }
+    },
+    {
+      "number": 12,
+      "speaker": "Ibrahim Musa",
+      "speaker_gender": "male",
+      "question": {
+        "file": "questions/seg_12_malayalam_question.mp3",
+        "language": "Malayalam",
+        "text": "എന്റെ തൊഴിലാളികളുടെയും സ്ഥാപനത്തിന്റെയും നേട്ടത്തിനായാണ് ഞാൻ പ്രവർത്തിക്കുന്നത്. എന്റെ സ്ഥാപനം ഞാൻ ആഗ്രഹിക്കുന്ന രീതിയിൽ നടത്താനുള്ള അവകാശം എനിക്കുണ്ട്."
+      },
+      "answer": {
+        "file": "answers/seg_12_english_answer.mp3",
+        "language": "English",
+        "text": "I work for the benefit of my workers and the company. I have the right to run my company the way I want."
+      }
+    },
+    {
+      "number": 13,
+      "speaker": "Natalia Nadeem",
+      "speaker_gender": "female",
+      "question": {
+        "file": "questions/seg_13_english_question.mp3",
+        "language": "English",
+        "text": "I am afraid I have to report this issue to my superiors. If an agreement cannot be reached with the union, the issue will need to go to the Industrial Relations Commission."
+      },
+      "answer": {
+        "file": "answers/seg_13_malayalam_answer.mp3",
+        "language": "Malayalam",
+        "text": "ഈ വിഷയം എന്റെ മേലുദ്യോഗസ്ഥരെ അറിയിക്കേണ്ടി വരുമെന്ന് ഖേദത്തോടെ പറയട്ടെ. തൊഴിലാളി സംഘടനയുമായി ഒരു ധാരണയിലെത്താൻ സാധിച്ചില്ലെങ്കിൽ ഈ വിഷയം ഇൻഡസ്ട്രിയൽ റിലേഷൻസ് കമ്മീഷന് വിടേണ്ടി വരും."
+      }
+    }
+  ]
+}
